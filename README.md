@@ -11,7 +11,7 @@
  * What does “Ubuntu” mean
  * How to use VMs with Vagrant
  * What does the command uname do
-##Copyright - Plagiarism
+## Copyright - Plagiarism
  * You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
  * You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
  * You are not allowed to publish any content of this project.
